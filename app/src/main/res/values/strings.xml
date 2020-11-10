@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExerciceBD</string>
+
+    <string-array name="sessions">
+        <item>Choisir une session</item>
+        <item>A2017</item>
+        <item>H2018</item>
+        <item>A2018</item>
+        <item>H2019</item>
+        <item>A2019</item>
+        <item>H2020</item>
+    </string-array>
+</resources>
