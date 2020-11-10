@@ -17,6 +17,7 @@ public class Cours implements Parcelable {
         this(0, "", "", "", "", 0);
     }
 
+    //Ceci est un commentaire 1 2 3
     public Cours(int id, String code, String nom, String prof, String session, int technique)
     {
         this.id = id;
